@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/AvinaashP/Portfolio-Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page includes some of the projects that have interested me and my work applying my data science knowledge and techniques in order to gain insights hidden in the data and to develop models that can help to predict outcomes that can be used to inform decisions in the future. Data science is a very broad and constantly evolving field and I have tried to explore techniques in data visualization and manipulation, machine learning modelling and natural language processing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Customer Churn Exploration
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +26,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AvinaashP/Portfolio-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
