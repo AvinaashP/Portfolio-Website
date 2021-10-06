@@ -4,7 +4,7 @@ This page includes some of the projects that have interested me and my work appl
 
 ### Customer Churn Exploration
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![](https://img.shields.io/badge/jupyter-open%20notebook-green)](link-to-our-project)
 
 ```markdown
 Syntax highlighted code block
