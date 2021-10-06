@@ -6,23 +6,6 @@ This page includes some of the projects that have interested me and my work appl
 
 [![](https://img.shields.io/badge/jupyter-open%20notebook-green)](link-to-our-project)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
