@@ -4,7 +4,7 @@ This page includes some of the projects that have interested me and my work appl
 
 ### Customer Churn Exploration
 
-[![](https://img.shields.io/badge/jupyter-open%20notebook-green)](link-to-our-project)
+[![](https://img.shields.io/badge/jupyter-open%20notebook-green)](https://AvinaashP.github.io/Exploration.html)
 
 
 
