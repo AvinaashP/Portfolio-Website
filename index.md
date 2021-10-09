@@ -9,3 +9,4 @@
 ---
 ### Customer Churn Analysis: Analyzing through Telco data to predict future customer churn
 
+[![Open Notebook](https://img.shields.io/badge/jupyter-open%20notebook-blue)](CustomerChurn.html)
